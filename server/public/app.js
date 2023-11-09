@@ -5,7 +5,8 @@ const baseurl = "ws:" + window.location.href.slice(5);
 //const socket = io(baseurl);
 //const socket = io("ws:" + window.location.href.slice(5));
 
-const socket = io("ws://https://chat-app-onms.onrender.com/");
+//const socket = io("ws://chat-app-onms.onrender.com/");
+const socket = io.connect("https://chat-app-onms.onrender.com/");
 
 const msgInput = document.querySelector("#message");
 const nameInput = document.querySelector("#name");
