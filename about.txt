@@ -6,3 +6,4 @@ https://www.youtube.com/watch?v=gOVjKoPgiM4
 Chat Activity Detection - Build a Chat App with Socket.io
 https://www.youtube.com/watch?v=ba4T590JPnw
 Real Time Chat App with Users, Rooms | Node.js, Express, Socket.io , html front
+works but deployed to https://chat-app-onms.onrender.com/ - a problem with protocol
